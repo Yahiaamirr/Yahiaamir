@@ -7,7 +7,7 @@
 
 - Ask me about: **Backend APIs & Spring Boot, Flutter development, Cybersecurity fundamentals**
 
-- How to reach me **[yahia.amir2016@gmail.com]**
+- How to reach me **[yahia.amir2016@gmail.com].[www.linkedin.com/in/yahia-amir-071933246]**
 
 - Fun fact **I enjoy building apps as much as I enjoy breaking them (ethically, of course).**
 
